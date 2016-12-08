@@ -1,0 +1,33 @@
+CHROM	POSITION	REF	ALT	PATHOGENIC	Depth_variant	Depth_exon	Confidence
+chr13	32889968	G	A	Benign	3	NA	Not confident
+chr13	32890026	C	T	Benign	2	NA	Not confident
+chr13	32890572	G	A	Benign	31	33	Confident
+chr13	32899567	G	C	Benign	4	NA	Not confident
+chr13	32903685	C	T	Benign	23	NA	Not confident
+chr13	32905265	G	A	Benign	25	NA	Not confident
+chr13	32910328	T	C	Benign	26	NA	Not confident
+chr13	32911888	A	G	Benign	23	28	Confident
+chr13	32913055	A	G	Benign	122	145	Confident
+chr13	32915005	G	C	Benign	111	130	Confident
+chr13	32915410	CAATT	C	Benign	52	NA	Not confident
+chr13	32915524	C	A	Benign	5	NA	Not confident
+chr13	32918941	A	G	Benign	5	NA	Not confident
+chr13	32918967	G	A	Benign	4	NA	Not confident
+chr13	32920844	T	C	Benign	41	NA	Not confident
+chr13	32925257	C	A	Benign	3	NA	Not confident
+chr13	32929232	A	G	Benign	61	67	Confident
+chr13	32929387	T	C	-	105	118	Confident
+chr13	32930936	G	A	-	7	NA	Not confident
+chr13	32936646	T	C	Benign	19	22	Confident
+chr13	32952485	A	G	Benign	2	NA	Not confident
+chr13	32953388	T	C	Benign	16	NA	Not confident
+chr13	32954561	G	A	Benign	7	NA	Not confident
+chr13	32959199	C	T	Benign	22	NA	Not confident
+chr13	32959240	C	A	Benign	7	NA	Not confident
+chr13	32962045	A	C	Benign	131	NA	Not confident
+chr13	32962088	C	T	Benign	164	NA	Not confident
+chr13	32962318	T	C	Benign	3	NA	Not confident
+chr13	32971425	T	C	Benign	2	NA	Not confident
+chr13	32973276	A	G	Benign	37	40	Confident
+chr13	32973439	A	G	Benign	159	178	Confident
+chr13	32973736	AT	A	-	51	28	Confident

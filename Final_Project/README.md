@@ -11,4 +11,8 @@ zipped folder of the pipeline
 bash file to run the pipeline, move it in DCM_pipeline  folder to run the pipeline  
 
 ####3.DCM_README.txt 
-reade file of DCM_bash.sh
+readme file of DCM_bash.sh
+
+####4.Patient 1 folder
+folder with data for Patient 1
+
